@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Finance Tracker</string>
+    <string name="app_name">Gallery Images</string>
     <string name="app_module">This string is from app module</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="dummy_button">Dummy Button</string>
